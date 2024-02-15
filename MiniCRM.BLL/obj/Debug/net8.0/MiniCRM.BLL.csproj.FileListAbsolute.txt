@@ -1,0 +1,16 @@
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/bin/Debug/net8.0/MiniCRM.BLL.deps.json
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/bin/Debug/net8.0/MiniCRM.BLL.dll
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/bin/Debug/net8.0/MiniCRM.BLL.pdb
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/bin/Debug/net8.0/MiniCRM.DAL.dll
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/bin/Debug/net8.0/MiniCRM.DAL.pdb
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/obj/Debug/net8.0/MiniCRM.BLL.csproj.AssemblyReference.cache
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/obj/Debug/net8.0/MiniCRM.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/obj/Debug/net8.0/MiniCRM.BLL.AssemblyInfoInputs.cache
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/obj/Debug/net8.0/MiniCRM.BLL.AssemblyInfo.cs
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/obj/Debug/net8.0/MiniCRM.BLL.csproj.CoreCompileInputs.cache
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/obj/Debug/net8.0/MiniCRM.BLL.sourcelink.json
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/obj/Debug/net8.0/MiniCRM.BLL.csproj.CopyComplete
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/obj/Debug/net8.0/MiniCRM.BLL.dll
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/obj/Debug/net8.0/refint/MiniCRM.BLL.dll
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/obj/Debug/net8.0/MiniCRM.BLL.pdb
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.BLL/obj/Debug/net8.0/ref/MiniCRM.BLL.dll

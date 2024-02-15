@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCRM", "MiniCRM\MiniCRM.csproj", "{CA97C67F-E870-4B37-94D6-9EC190D5C27E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCRM.DAL", "MiniCRM.DAL\MiniCRM.DAL.csproj", "{9EA9FD22-F980-4AEF-9E51-FB96F43AA671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCRM.Service", "MiniCRM.Service\MiniCRM.Service.csproj", "{70FC56A2-0380-4487-8531-50260139FCD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCRM.BLL", "MiniCRM.BLL\MiniCRM.BLL.csproj", "{E4B83FD0-1B82-40E3-8142-F12CCCC7B910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA97C67F-E870-4B37-94D6-9EC190D5C27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA97C67F-E870-4B37-94D6-9EC190D5C27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA97C67F-E870-4B37-94D6-9EC190D5C27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA97C67F-E870-4B37-94D6-9EC190D5C27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA9FD22-F980-4AEF-9E51-FB96F43AA671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA9FD22-F980-4AEF-9E51-FB96F43AA671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA9FD22-F980-4AEF-9E51-FB96F43AA671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA9FD22-F980-4AEF-9E51-FB96F43AA671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FC56A2-0380-4487-8531-50260139FCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FC56A2-0380-4487-8531-50260139FCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FC56A2-0380-4487-8531-50260139FCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FC56A2-0380-4487-8531-50260139FCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B83FD0-1B82-40E3-8142-F12CCCC7B910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B83FD0-1B82-40E3-8142-F12CCCC7B910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B83FD0-1B82-40E3-8142-F12CCCC7B910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B83FD0-1B82-40E3-8142-F12CCCC7B910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

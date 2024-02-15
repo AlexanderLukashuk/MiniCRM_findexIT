@@ -1,0 +1,15 @@
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/bin/Debug/net8.0/MiniCRM.DAL.deps.json
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/bin/Debug/net8.0/MiniCRM.DAL.dll
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/bin/Debug/net8.0/MiniCRM.DAL.pdb
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/obj/Debug/net8.0/MiniCRM.DAL.csproj.AssemblyReference.cache
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/obj/Debug/net8.0/MiniCRM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/obj/Debug/net8.0/MiniCRM.DAL.AssemblyInfoInputs.cache
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/obj/Debug/net8.0/MiniCRM.DAL.AssemblyInfo.cs
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/obj/Debug/net8.0/MiniCRM.DAL.csproj.CoreCompileInputs.cache
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/obj/Debug/net8.0/MiniCRM.DAL.sourcelink.json
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/obj/Debug/net8.0/MiniCRM.DAL.dll
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/obj/Debug/net8.0/refint/MiniCRM.DAL.dll
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/obj/Debug/net8.0/MiniCRM.DAL.pdb
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/obj/Debug/net8.0/ref/MiniCRM.DAL.dll
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/bin/Debug/net8.0/MiniCRM.DAL.runtimeconfig.json
+/Users/aleksandrlukasuk/csharp_study/Projects/MoniCRM/MiniCRM.DAL/obj/Debug/net8.0/MiniCRM.DAL.genruntimeconfig.cache
